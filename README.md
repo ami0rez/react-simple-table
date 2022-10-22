@@ -1,3 +1,14 @@
+# Info
+This project contains a component that can be used to display data with:
+- Paging
+- Sort
+- Filtering
+- Export Excel
+
+# To Be Added
+- Import 
+- more styling
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
